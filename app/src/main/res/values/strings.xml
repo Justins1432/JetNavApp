@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JetNavApp</string>
+    <string name="green_btn">Green Box</string>
+    <string name="yellow_btn">Yellow Box</string>
+    <string name="this_a_box">This a box</string>
+    <string name="go_back">Go back</string>
+    <string name="open_secret">Open secret</string>
+    <string name="generate_number">Generate number</string>
+    <string name="secret_place">This a secret place</string>
+    <string name="close_secret">Close secret</string>
+    <string name="close_the_whole_box">Close the whole box</string>
+    <string name="fragment_root">Root</string>
+    <string name="fragment_box">Box</string>
+    <string name="fragment_secret">Secret</string>
+</resources>
